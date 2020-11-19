@@ -2,6 +2,10 @@ docs:
   - title: Wiki
     url: /wiki/index
     children:
+      - title: "Introduction"
+        url: /wiki/introduction
+      - title: "Restrictions"
+        url: /wiki/restrictions
       - title: "Measurements"
         url: /wiki/measurements
       - title: "Tubes"
@@ -12,6 +16,8 @@ docs:
   - title: Resources
     url: /resources/index
     children:
+      - title: "Devices"
+        url: /resources/devices
       - title: "Stores"
         url: /resources/stores
       - title: "Marketplaces"

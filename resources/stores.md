@@ -4,7 +4,7 @@ title:  Stores
 ---
 
 ### IEA MIL-OPTICS
-[Online Store](www.i-e-a.de)
+[Online Store](https://i-e-a.de)
 
 A Germany-based supplier for commercial and restricted military equipment.
 

@@ -4,7 +4,7 @@ title:  Marketplaces
 ---
 
 ### Night Vision Marketplace
-[Facebook Group](www.facebook.com/groups/175676493297552)
+[Facebook Group](https://facebook.com/groups/175676493297552)
 
 A well moderated private group for selling and buying night vision equipment.
 
