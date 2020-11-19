@@ -52,6 +52,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nv-intl/nv-intl.github.io"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/h9AxERYR67"
 
 
 # Exclude from processing.
