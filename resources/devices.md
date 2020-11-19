@@ -12,6 +12,7 @@ Used by many troops in the United States.
 
 ## PVS-14
 Manufacturer: ? (Israel)
+
 Resellers: ACTinBlack
 
 A clone of the original PVS-14.
@@ -22,6 +23,7 @@ Manufacturer: ACTinBlack (Luxemburg)
 
 ## BNVD 31 / BNVD 1431
 Manufacturer: Argus (?)
+
 Resellers: IEA (IEA NT-1431)
 
 
