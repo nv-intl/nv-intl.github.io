@@ -10,9 +10,9 @@ docs:
         url: /wiki/formats
 
   - title: Resources
-    url: /resources
+    url: /resources/index
     children:
       - title: "Stores"
-        url: /stores
+        url: /resources/stores
       - title: "Marketplaces"
-        url: /marketplaces
+        url: /resources/marketplaces
