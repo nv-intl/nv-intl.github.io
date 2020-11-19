@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+header:
+  image: /assets/images/banner.jpg
+
 ---
 
 Under construction
