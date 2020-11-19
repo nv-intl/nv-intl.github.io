@@ -1,0 +1,18 @@
+docs:
+  - title: Wiki
+    url: /wiki/index
+    children:
+      - title: "Measurements"
+        url: /wiki/measurements
+      - title: "Tubes"
+        url: /wiki/tubes
+      - title: "Tube Formats"
+        url: /wiki/formats
+
+  - title: Resources
+    url: /resources
+    children:
+      - title: "Stores"
+        url: /stores
+      - title: "Marketplaces"
+        url: /marketplaces
