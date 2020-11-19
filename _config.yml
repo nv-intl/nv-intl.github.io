@@ -28,9 +28,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
