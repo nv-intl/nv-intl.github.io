@@ -34,7 +34,7 @@ Used by many troops in the United States.
 * Manufacturer: ? (Israel)
 * Format: MX10160
 * Price: ~1000$
-* Rebrandedd by: ACTinBlack
+* Rebranded by: ACTinBlack
 * Sold by:
   * [NIGHTTEC](/resources/stores#nighttec)
   * [IEA MIL-OPTICS](/resources/stores#iea-miloptics)
@@ -60,7 +60,7 @@ ToDo:
 * Type: Monocular
 * Format: MX10160
 * Price: ~250$
-* Manufacturer: Shenzen Daking Optoelectronics Co., Ltd.
+* Manufacturer: Shenzen Daking Optoelectronics Co., Ltd. (China)
 
 With probably the lowest price for a monocular device, it supposedly has surprisingly good quality & optics.
 
