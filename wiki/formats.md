@@ -3,11 +3,34 @@ layout: single
 title:  Tube Formats
 ---
 
-*Under Construction*
+## MX10160 / F9800
 
-| Name        | Codes                                     | Screen diameter | Inverting | Dimensions                                           |
-|-------------|-------------------------------------------|-----------------|-----------|------------------------------------------------------|
-| Small ANVIS | **MX10160**<br>F9800<br>XX1450<br>MX11769 | 18 mm           | Yes       | [Inches](/assets/images/mx10160_dimensions_inch.png) |
-|             | **MX10130**<br>F9810<br>M891<br>          | 18 mm           | No        |                                                      |
-|             | MX11619<br>MX11620                        | 25 mm           | Yes       |                                                      |
-| Fat ANVIS   | **M868**<br>M869                          | 44mm            | Yes       |                                                      |
+<img src="/assets/images/mx10160_dimensions_inch.png" alt="MX10160 dimensions in inches" style="width:1000px;"/>
+
+The standard format used in most monoculars and binoculars, often referred to as *Small ANVIS* or just *ANVIS*.
+
+* Screen diameter: 18mm
+* Inverting
+
+## MX11769
+
+The same as **MX10160**, but with external gain wires ("pigtails").
+
+## MX10130 / F9810
+
+An older format used mainly for AN/PVS-7 bioculars.
+
+* Screen diameter: 18mm
+* Non-Inverting
+
+##  MX11619 / MX11620
+
+* Screen diameter: 25mm
+* Inverting
+
+## M868 / M869
+
+An older format sometimes referred to as *Fat ANVIS*.
+
+* Screen diameter: 44mm
+* Inverting
