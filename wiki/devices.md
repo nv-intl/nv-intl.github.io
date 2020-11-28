@@ -54,16 +54,28 @@ Inferior optics but otherwise of good quality.
 ## ACTinBlack 🇱🇺
 [Home Page](https://actinblack.com/)
 
-### DTNVG 14
+### DTNVG-14 / DTNVG-AVS
+* Type: Binoculars
+* Format: MX10160
+* Buy:
+  * [NightTec](https://nighttec.net/shop/dtnvg14/) (DTNVG)
+  * [NightTec](https://nighttec.net/shop/dtnvgavs/) (DTNVG-AVS)
+
+Very expensive, high quality binoculars equipped with AN/PVS-14 objectives.
+
+The -AVS version has threading for AN/AVS-9 objectives
+that offer a higher light gain and a more detailed focus than AN/PVS-14 objectives.
+
+### DTNVS
 * Type: Binoculars
 * Format: MX10160
 * Buy:
   * [NightTec](https://nighttec.net/shop/dtnvg14/)
 
 Very expensive, high quality binoculars equipped with AN/PVS-14 objectives.
+They are an lighter and improved version of the DTNVG.
 
-
-### DTNVG AVS
+### DTNVG-AVS
 * Type: Binoculars
 * Format: MX10160
 * Buy:
