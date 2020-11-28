@@ -12,13 +12,9 @@ docs:
         url: /wiki/tubes
       - title: "Tube Formats"
         url: /wiki/formats
-
-  - title: Resources
-    url: /resources/index
-    children:
       - title: "Devices"
-        url: /resources/devices
+        url: /wiki/devices
       - title: "Stores"
-        url: /resources/stores
+        url: /wiki/stores
       - title: "Marketplaces"
-        url: /resources/marketplaces
+        url: /wiki/marketplaces
