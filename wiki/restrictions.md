@@ -50,9 +50,11 @@ or mark the target (e.g. lasers) are prohibited.
 
 *Note*:
 * This includes light in the non-visual spectrum.
-* Owning adapters to mount regular flashlights or laser pointers is prohibited, too.
 * Naturally, attaching regular flashlights or laser pointers to the gun (e.g. duct taping)
 is also prohibited.
+* Allthough universal adapters aren't strictly prohibited, there have been alleged cases
+where the combination of a universal gun adapter in "next to" a compatible flashlight
+have been interpreted as illegal attachment.
 
 [1]: https://nightvisionuniverse.com/pages/export-regulations
 [2]: https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf
