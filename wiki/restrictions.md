@@ -3,16 +3,61 @@ layout: single
 title:  Restrictions
 ---
 
-## United States
+## United States 🇺🇸
 
-Tubes and devices produced in the united states are usually export restricted through **ITAR**.
+The export of night vision equipment is controlled in accordance with the
+*International Traffic in Arms* (ITAR) regime, which is defined in Title 22
+in the Code of Federal Regulations Part 120-130. [<sup>[1]</sup>][1]
 
-Smuggling them out of U.S. borders is a criminal offense.
+ITAR defines the *United States Munitions List* (USML) [<sup>[2]</sup>][2] of
+controlled items grouped by category.
 
-Owning and trading devices that already are outside of the U.S. is not prohibited.
+Among others, category XII contains devices and weapon sights
+using image intensifiers with a [sensitivity][x1] over 350 μA/lm
+and Gen. 3 image intensifiers (or later).
 
-## Germany
+Exporting ITAR controlled equipment & information without a license is a punishable crime.
 
-Mounting any form of image coverter on a gun (even a freely purchasable gun, e.g. airsoft gun) is prohibited.
+*Note*:
+* Restricted devices and image intensifiers still regulary find their way into the international
+market by:
+  * rare occurences of companies exporting legally
+  * U.S. military bases in other countries selling off surplus & damaged equipment
+  * illegal smuggling
+* In most countries, trading and owning ITAR controlled equipment is completely legal.
+* Equipment imported to the U.S. might not be able to be exported again if it falls under ITAR.
+* Allthough theoretically possible, permission to legally export ITAR regularted night vision
+equipment is generally seen as unobtainable.
 
-Mounting any form of laser or flashlight (even in the non-visual spectrum) on a gun is prohibited, as well as owning parts that would allow it.
+## Germany 🇩🇪
+
+Certain gun-mounted equipment is prohibited by the *Waffengesetz* § 2.3 & annex 2 [<sup>[3]</sup>][3][<sup>[4]</sup>][4][<sup>[5]</sup>][5].
+
+According to annex 2 nr. 1.2.4.2 gun-mounted night vision attachments & sights are prohibited
+if they include an electronic image converter or an image intensifier.
+
+*Note*:
+* Image converters include infrared and thermal.
+* Naturally, attaching regular night vision devices to the gun (e.g. duct taping)
+is also prohibited.
+* Allthough cameras are image converters to an extent they don't seem to strictly fall under this category.
+* Recently, hunting became exempt from this rule, with ownership & usage of night vision attachments
+and sights becoming legal for bearers of a hunting license for the sole purpose of hunting.
+This change might not have been implemented yet in the laws of the different federal states.
+
+According to annex 2 nr. 1.2.4.1 gun-mounted devices that illuminate the target (e.g. flashlights)
+or mark the target (e.g. lasers) are prohibited.
+
+*Note*:
+* This includes light in the non-visual spectrum.
+* Owning adapters to mount regular flashlights or laser pointers is prohibited, too.
+* Naturally, attaching regular flashlights or laser pointers to the gun (e.g. duct taping)
+is also prohibited.
+
+[1]: https://nightvisionuniverse.com/pages/export-regulations
+[2]: https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf
+[3]: https://www.gesetze-im-internet.de/waffg_2002/__2.html
+[4]: https://www.gesetze-im-internet.de/waffg_2002/anlage_2.html
+[5]: https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Aufgabenbereiche/Waffen/MerkblattNachtsichtvor_aufsatzgeraete.pdf
+
+[x1]: https://nv-intl.com/wiki/measurements#photocathode-sensitivity
