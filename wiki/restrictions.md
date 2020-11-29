@@ -53,7 +53,7 @@ or mark the target (e.g. lasers) are prohibited.
 * Naturally, attaching regular flashlights or laser pointers to the gun (e.g. duct taping)
 is also prohibited.
 * Allthough universal adapters aren't strictly prohibited, there have been alleged cases
-where the combination of a universal gun adapter in "next to" a compatible flashlight
+where the combination of a universal adapter "next to" a compatible flashlight
 have been interpreted as illegal attachment.
 
 [1]: https://nightvisionuniverse.com/pages/export-regulations
