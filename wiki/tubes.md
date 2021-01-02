@@ -20,6 +20,8 @@ image intensifier tubes in the [MX10160 format](/wiki/formats).
 
 Each iteration of Omni contracts has lead to continuous technological improvements and better resulting night vision performance.
 
+The values in the table are minimums, unless otherwise specified.
+
 | Contract  | Resolution<br>lp/mm | S/N  | Photocathode Sensitivity<br>uA/lm @ 2856K | Photocathode Sensitivity<br>uA/lm @ 830nm | Photocathode Sensitivity<br>uA/lm @ 880nm | Gain<br>fL/fc  | MTF<br>2.5lp/mm | MTF<br>7.5lp/mm | MTF<br>15lp/mm | MTF<br>25lp/mm | Halo<br>mm | Phosphor  | Year | EBI<br>x10^-11 | Tubes supplied                                                                                                                                 | Contracts                                                                                                                                                |
 |-----------|---------------------|------|-------------------------------------------|-------------------------------------------|-------------------------------------------|----------------|-----------------|-----------------|----------------|----------------|------------|-----------|------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Omni I    | 36                  | 16.2 | 1000                                      | 100                                       | 60                                        | 20,000-35,000  | 0.83            | 0.58            | 0.28           | 0.08           | 1.47       | P-20      | 1982 | 2.5            | MX-9916/UV<br>MX-9644/UV<br>MX-10130A/UV<br>MX-10130B/UV<br>MX-18281/PVS-7A<br>MX-18282/PVS-7B                                                 | DAAB07-85-C-E032<br>DAAB07-85-C-E033<br>mx9916<br>DAAB07-81-C-1065                                                                                       |
@@ -31,13 +33,69 @@ Each iteration of Omni contracts has lead to continuous technological improvemen
 | Omni VII  | 64                  | 28   | 2200                                      |                                           | 120                                       | 50,000-80,000  | 0.92            | 0.8             | 0.61           | 0.38           | 0.70       | P-43      | 2006 | 3              | MX-10160C /AVS-6<br>ID 80063-A3279602<br>MX-11769/UV<br>MX-10130D/UV<br>ENVG (Enhanced NVG )<br>FGS (Fusion Goggle System )                    | W9124Q-05-D-0821<br>W9124Q-05-D-0823<br>N00164-07-R-85240<br>mx10160<br>N00164-09-R-JQ02FGS<br>mx10160<br>H92222-08-R-0040<br>mx10160<br>H9222-10-R-0003 |
 | Omni VIII | 64                  | > 25 | 2000                                      | 190                                       | 80                                        | 25,000-110,000 | Nominal         | Nominal         | 0.61           | 0.38           | 1          | P-43      | 2010 | 3              | MX-10130D/UV<br>MX-11769/UV<br>MX-12389<br>DFG (Digital Fusion Goggles)<br>Enhanced-ANVIS MX-10160B                                            | W91CRB-10-R-0051<br>W91CRB-11-R-0001<br>SPM4A6-11-R-1478<br>SPM4A611MCN18                                                                                |
 
+An Omni IV contract is currently in development.[<sup>[1]</sup>][1]
+
+
 # ITT
 
-Under construction
+## F9800 Series
+The F9800 series is an ongoing line of [MX10160](/wiki/formats#mx10160) format tubes for civilian and military aviation use.
+
+Each version of this series is names F9800 followed by one or two letters.
+
+### Additional info:
+
+A document outlining F9800 series that meet [ITAR](/wiki/restrictions#itar) requirements for export.
 
 # Photonis
 
-Under construction
+Photonis is an European manufacturer located in Luxemburg.
+
+The most important difference to other manufacturers is that Photonis is producing only Gen. 2
+image intensifiers, but has improved the technology to such a degree that the high end tubes
+can easily compete, if not outperform modern Gen. 3 tubes from the U.S..
+
+## XD4
+
+## XR5
+
+## Echo
+Echo is Photonis' standard line of commercial tubes. The tubes rarely break the 2000 FOM barrier.
+
+Key characteristics are:
+
+* Good image clarity
+* Good resolution
+* Low Halo
+* Low performance in light conditions under 100 mLux
+
+## Echo+
+
+Echo+ is the same production line as Echo, encompassing the resulting higher spec tubes.
+These tubes usually break the 2000 FOM barrier.
+
+## 4G
+
+4G is Photonis high end production line aimed at MIL/LEO customers, allthough being sold to civilians as well, for example by IEA Mil-Optics GmbH.
+
+4G tubes often compare directly to thin-film Gen.3 tubes.
+
+Key characteristics are:
+* Superb image clarity
+* Superb resolution
+* Low halo
+* Not confirmed: Good performance even in very dark conditions.
+
+## 4G+
+Released in 2019, the 4G+ series builds on the technology of 4G with various improvements, leading to a minimum 2300 FOM.
+
+In 2016 Photonis patented the use of *diffraction grating*[<sup>[2]</sup>][2] which suggests a 80% increase in photocathode sensitivity.
+
+Marketing material also mentions improvements in MCP technology. [<sup>[3]</sup>][3].
+Experts have linked these improvements to a second patent from 2019 [<sup>[4]</sup>][4] indicating the use of a *GaAs film* to "focus" photons emitted by the MCP,
+leading to a alleged 90% improvement in MTF / contrast.
+
+<img src="/assets/images/gaas_film.png" alt="GaAs film" style="width:1000px;"/>
 
 # Harder Digital
 
@@ -46,3 +104,9 @@ Under construction
 # Katod Inc
 
 Under construction
+
+
+[1]: https://govtribe.com/opportunity/federal-contract-opportunity/product-manager-soldier-maneuver-sensor-pdm-sms-draft-mil-prf-a3314408-industry-review-milprfa3314408#
+[2]: https://patents.google.com/patent/EP2907154B1
+[3]: https://www.photonis.com/system/files/2020-06/190902-Leaflet-4Gp.pdf
+[4]: https://patents.google.com/patent/EP3400469B1

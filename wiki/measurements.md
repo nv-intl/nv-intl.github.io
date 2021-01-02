@@ -66,3 +66,9 @@ Photocathode sensitivity is directly related to the gain of a system.
 ## EBI
 
 Under construction
+
+## Modular Transfer Function (MTF)
+
+= Contrast
+
+Under construction

@@ -3,7 +3,7 @@ layout: single
 title:  Tube Formats
 ---
 
-## MX10160 / F9800
+## MX10160
 
 <img src="/assets/images/mx10160_dimensions_inch.png" alt="MX10160 dimensions in inches" style="width:1000px;"/>
 
