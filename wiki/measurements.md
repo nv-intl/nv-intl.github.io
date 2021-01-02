@@ -17,6 +17,8 @@ Low SNR tubes are generally cheaper, but still produce clear results when there 
 
 High SNR tubes become expensive quickly, but will produce a clear image even in much darker conditions.
 
+According to Photonis, the SNR is measured using a 0.2 mm spot of light flickering at 10 Hz with a brightness of 108 µlx. [<sup>[1](4.6.11)</sup>][1]
+
 ## Resolution
 Unit: lp / mm
 
@@ -63,12 +65,16 @@ resulting in more electrons hitting the phosphorus for a given illumination leve
 
 Photocathode sensitivity is directly related to the gain of a system.
 
-## EBI
+## Equivalent Background Input (EBI)
+Unit: lx
 
-Under construction
+A tube that has no light input still lights up slightly - referred to as background illumination.
+It is measured by comparing it to how much light input would be required to achieve an equivalent level of illumination of the tube,
+if the tube would not have any background illumination in the first place.
 
-## Modular Transfer Function (MTF)
+## Modulation transfer function (MTF)
 
-= Contrast
+The MTF is the major characteristic how well a tube can reproduce the contrast of an observed scene.[<sup>[2]</sup>][2]
 
-Under construction
+[1]: https://drive.google.com/file/d/1AVyxBbefFo_3oL5uleMdIk21kWuWc272/view?usp=sharing
+[2]: https://www.photonis.com/system/files/2019-03/Modulation-Transfer-Function.pdf
