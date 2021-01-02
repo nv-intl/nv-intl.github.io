@@ -92,8 +92,8 @@ Released in 2019, the 4G+ series builds on the technology of 4G with various imp
 In 2016 Photonis patented the use of *diffraction grating*[<sup>[2]</sup>][2] which suggests a 80% increase in photocathode sensitivity.
 
 Marketing material also mentions improvements in MCP technology. [<sup>[3]</sup>][3].
-Experts have linked these improvements to a second patent from 2019 [<sup>[4]</sup>][4] indicating the use of a *GaAs film* to "focus" photons emitted by the MCP,
-leading to a alleged 90% improvement in MTF / contrast.
+Experts have linked these improvements to a second patent from 2019 [<sup>[4]</sup>][4] indicating the use of a *GaAs film* to "focus" electrons emitted by the MCP,
+leading to a alleged 81% improvement in MTF / contrast.
 
 <img src="/assets/images/gaas_film.png" alt="GaAs film" style="width:1000px;"/>
 
