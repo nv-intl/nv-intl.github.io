@@ -73,8 +73,12 @@ It is measured by comparing it to how much light input would be required to achi
 if the tube would not have any background illumination in the first place.
 
 ## Modulation transfer function (MTF)
+Unit: Function of spatial frequency (lp / mm)
 
 The MTF is the major characteristic how well a tube can reproduce the contrast of an observed scene.[<sup>[2]</sup>][2]
+Tubes with a bad MTF will make the observed scene look blurry, even if the tube has high resolution.
+A good MTF is usually connected to the perceived "crisp" of the image.
+
 
 [1]: https://drive.google.com/file/d/1AVyxBbefFo_3oL5uleMdIk21kWuWc272/view?usp=sharing
 [2]: https://www.photonis.com/system/files/2019-03/Modulation-Transfer-Function.pdf
