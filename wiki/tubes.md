@@ -45,9 +45,10 @@ The F9800 series is an ongoing line of [MX10160](/wiki/formats#mx10160) format t
 
 Each version of this series is names F9800 followed by one or two letters.
 
-### Additional info:
+### Additional documents:
 
-A document outlining F9800 series that meet [ITAR](/wiki/restrictions#itar) requirements for export.
+* [F9800J and F9800P](https://www.asu-nvg.com/Documents%20and%20Settings/39/Site%20Documents/Product%20Spec%20Sheets/MX-10160_F9800_Int.pdf)
+* [F9800M22G/M24G](https://www.asu-nvg.com/Documents%20and%20Settings/39/Site%20Documents/Product%20Spec%20Sheets/New/2016_05F9800_M22_M24InternationalHarris_WebRes.pdf)
 
 # Photonis
 
