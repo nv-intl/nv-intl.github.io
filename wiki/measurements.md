@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Tubes
+title: Measurements
 ---
 
 Every night vision tube comes with a set of measurements that can be used to determine the quality and how suitable it is for different uses.

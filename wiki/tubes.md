@@ -129,14 +129,14 @@ Tubes are generally only sold for Mil/LE, but find their way into the civilian m
 
 A Russian tube manufacturer producing both Gen. 2 and Gen. 3 tubes with acceptable prices.
 
-# NNVT
+# North Night Vision Technology (NNVT)
 
-A Chinese tube manufacturer who in the recent years has reached impressive improvements in their Gen. 2 tube performance by breaking the 2000 FOM barrier.
+A Chinese manufacturer of Gen. 2 image intensifier tubes.
 
-The company generally doesn't seem to have much of an online presence.
+Allthough the company doesn't have an online presence, marketing material indicates that they have broken the 2000 FOM barrier.
+Unconfirmed claims indicate that the tubes are much more affordable compared to other manufacturers, and come with warranty.
 
 {% include image.html image="nnvt_series_overview.png" description="An overview for marketing purposes over the different series of image intensifiers produced by NNVT over the years" %}
-
 
 [1]: https://govtribe.com/opportunity/federal-contract-opportunity/product-manager-soldier-maneuver-sensor-pdm-sms-draft-mil-prf-a3314408-industry-review-milprfa3314408#
 [2]: https://patents.google.com/patent/EP2907154B1
