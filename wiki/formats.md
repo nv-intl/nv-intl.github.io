@@ -28,9 +28,15 @@ An older format used mainly for AN/PVS-7 bioculars.
 * Screen diameter: 25mm
 * Inverting
 
-## M868 / M869
+# MX9916
 
 An older format sometimes referred to as *Fat ANVIS*.
 
 * Screen diameter: 44mm
 * Inverting
+
+## M868 / M869
+
+Virtually identical to MX9916, but with glass input like a 10160, rather than fiber optic input.
+
+Used in e.g. Kite scopes.
