@@ -61,9 +61,7 @@ can easily compete, if not outperform modern Gen. 3 tubes from the U.S..
 Photonis offers most tubes with two different types of phosphors, P43 (green) and P45 (white). Their P45 phosphor tubes are also called *Onyx*.
 
 Generally, European made tubes are very expensive, with Photonis being no exception.
-
 When comparing to prices of U.S. made thin film Gen. 3 tubes, they often cost almost twice as much for the same performance.
-
 Some users however swear on their superior image quality and resistance against shock and bright lights.
 
 ## XD4

@@ -4,6 +4,8 @@ docs:
     children:
       - title: "Introduction"
         url: /wiki/introduction
+      - title: "Technology"
+        url: /wiki/technology
       - title: "Restrictions"
         url: /wiki/restrictions
       - title: "Measurements"
