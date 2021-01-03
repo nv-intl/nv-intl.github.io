@@ -13,7 +13,7 @@ ITAR defines the *United States Munitions List* (USML) [<sup>[2]</sup>][2] of
 controlled items grouped by category.
 
 Among others, category XII contains devices and weapon sights
-using image intensifiers with a [sensitivity][x1] over 350 μA/lm
+using image intensifiers with a [sensitivity][/wiki/measurements#photocathode-sensitivity] over 350 μA/lm
 and Gen. 3 image intensifiers (or later).
 
 Exporting ITAR controlled equipment & information without a license is a punishable crime.
@@ -61,5 +61,3 @@ have been interpreted as illegal attachment.
 [3]: https://www.gesetze-im-internet.de/waffg_2002/__2.html
 [4]: https://www.gesetze-im-internet.de/waffg_2002/anlage_2.html
 [5]: https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Aufgabenbereiche/Waffen/MerkblattNachtsichtvor_aufsatzgeraete.pdf
-
-[x1]: https://nv-intl.com/wiki/measurements#photocathode-sensitivity
