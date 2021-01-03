@@ -43,7 +43,7 @@ Apart from producing tubes for the aformentioned Omni contracts, the U.S. based 
 ## F9800 Series
 The F9800 series is an ongoing line of [MX10160](/wiki/formats#mx10160) format tubes for civilian and military aviation use.
 
-Each version of this series is names F9800 followed by one or two letters.
+Each version of this series is names F9800 followed by a specific code consisting of at least one letter.
 
 ### Additional documents:
 
