@@ -26,7 +26,7 @@ market by:
   * illegal smuggling
 * In most countries, trading and owning ITAR controlled equipment is completely legal.
 * Equipment imported to the U.S. might not be able to be exported again if it falls under ITAR.
-* Allthough theoretically possible, permission to legally export ITAR regularted night vision
+* Allthough theoretically possible, permission to legally export ITAR regulated night vision
 equipment is generally seen as unobtainable.
 
 ## Germany 🇩🇪
