@@ -9,6 +9,7 @@ The standard format used in most monoculars and binoculars, often referred to as
 
 * Screen diameter: 18mm
 * Inverting
+* Glass Input
 
 {% include image.html image="mx10160_dimensions_inch.png" description="MX10160 dimensions in inches" %}
 
@@ -34,8 +35,11 @@ An older format sometimes referred to as *Fat ANVIS*.
 
 * Screen diameter: 44mm
 * Inverting
+* Fiber Optic Input
 
 ## M868 / M869
+
+**Unconfirmed, work in progress**
 
 Virtually identical to MX9916, but with glass input like a 10160, rather than fiber optic input.
 
