@@ -63,8 +63,7 @@ Inferior optics but otherwise of good quality.
 
 Very expensive, high quality binoculars equipped with AN/PVS-14 objectives.
 
-The -AVS version has threading for AN/AVS-9 objectives
-that offer a higher light gain and a more detailed focus than AN/PVS-14 objectives.
+The -AVS version has threading for AN/AVS-9 objectives instead of AN/PVS-14 objectives.
 
 ### DTNVS
 * Type: Binoculars
