@@ -118,7 +118,6 @@ Older versions of this device were not airtight and so could not be purged.
 ### BNVD 31
 * Type: Binoculars
 * Format: MX10160
-* Manufacturer: Argus
 
 An improved version of the BNVD 1431 that does not rely on a AN/PVS-14 compatible objective lens assembly.
 
@@ -144,3 +143,29 @@ It is currently still in development and not much is known except for some posts
 * Buy:
   * [Lindu Optics on Alibaba 1](https://linduoptics.en.alibaba.com/product/1600115721917-820684869/LINDU_OEM_factory_1X_binoculars_night_vision_goggles_gen_3_gen2_with_battery_pack.html)
   * [Lindu Optics on Alibaba 2](https://linduoptics.en.alibaba.com/product/1600115748678-820684869/LINDU_F1_18_optical_system_FOV50_NVGB_infrared_goggles_night_vision_with_1_year_warranty.html)
+
+## Troya 🇮🇱
+[Home Page](https://www.troya-tech.com/)
+
+Troya has an impressive lineup of devices, ranging from clones of AN/PVS-14 and AN/PVS-7 devices to
+custom binocular devices.
+
+The company is responsive to inquiries and open to directly sell to civilians internationally.
+
+### Ninox Pro
+* Type: Binocular
+* Format: MX10160
+* [Product Site](https://www.troya-tech.com/Products/653/Ninox-Pro-Night-Vision-Binocular)
+
+An affordable binocular device that allegedly features high-quality proprietary optics.
+
+Each eyepiece can be folded up and features an interpupillary distance adjustment.
+
+Unconfirmed price information places the Ninox Pro in the 2600€ range.
+
+### Strix Anvis
+* Type: Binocular
+* Format: MX10160
+* [Product Site](https://www.troya-tech.com/Products/strix/Strix-ANVIS)
+
+A binocular designed for aviation and to be used with ANVIS ball detent mounts.

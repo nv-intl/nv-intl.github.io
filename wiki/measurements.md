@@ -11,7 +11,7 @@ Unit: unitless
 A dimensionless value that is determined by dividing the perceived strength of the intensified image by the perceived noise.
 The image below gives a visual representation of a high- and low values of SNR.
 
-![Signal to noise ratio representation](/assets/images/signal_large.webp)
+{% include image.html image="signal_large.webp" description="Exemplaric signal to noise ratio graph" %}
 
 Low SNR tubes are generally cheaper, but still produce clear results when there is enough light left.
 

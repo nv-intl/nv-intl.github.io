@@ -5,12 +5,12 @@ title:  Tube Formats
 
 ## MX10160
 
-<img src="/assets/images/mx10160_dimensions_inch.png" alt="MX10160 dimensions in inches" style="width:1000px;"/>
-
 The standard format used in most monoculars and binoculars, often referred to as *Small ANVIS* or just *ANVIS*.
 
 * Screen diameter: 18mm
 * Inverting
+
+{% include image.html image="mx10160_dimensions_inch.png" description="MX10160 dimensions in inches" %}
 
 ## MX11769
 
