@@ -6,6 +6,4 @@ layout: home
 
 ---
 
-This website is an open source project hosted on GitHub.
-
-Merge requests extending the Wiki or Resources section are greatly appreciated!
+This website is an open source project hosted on GitHub. Merge requests extending this shared base of knowledge are greatly appreciated!

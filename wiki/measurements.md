@@ -22,7 +22,7 @@ According to Photonis, the SNR is measured using a 0.2 mm spot of light flickeri
 ## Resolution
 Unit: lp / mm
 
-Determined by the number of light points on the phosphorus screen across a line of one millimeter.
+Determined by the number of light points on the phosphor screen across a line of one millimeter.
 
 The effect is the same as with the resolution of a camera sensor or a smartphone - the higher the resolution the more details can be recognized.
 
@@ -61,7 +61,7 @@ Unit: uA/lm
 The photocathode sensitivity determines how many microampere are produced relative to the illumination level measured in lumen.
 
 The higher the sensitivity, the easier incoming photons can dislodge an electron from the photocathode,
-resulting in more electrons hitting the phosphorus for a given illumination level.
+resulting in more electrons hitting the phosphor screen for a given illumination level.
 
 Photocathode sensitivity is directly related to the gain of a system.
 

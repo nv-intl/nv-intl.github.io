@@ -74,15 +74,6 @@ The -AVS version has threading for AN/AVS-9 objectives instead of AN/PVS-14 obje
 Very expensive, high quality binoculars equipped with AN/PVS-14 objectives.
 They are an lighter and improved version of the DTNVG.
 
-### DTNVG-AVS
-* Type: Binoculars
-* Format: MX10160
-* Buy:
-  * [NightTec](https://nighttec.net/shop/dtnvgavs/)
-
-Very expensive, high quality binoculars equipped with AN/AVS-9 objectives
-that offer a higher light gain and a more detailed focus than AN/PVS-14 objectives.
-
 ## Shenzen Daking Optoelectronics Co., Ltd. 🇨🇳
 
 ### D-M2041

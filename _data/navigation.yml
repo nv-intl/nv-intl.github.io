@@ -1,9 +1,6 @@
 docs:
   - title: Wiki
-    url: /wiki/index
     children:
-      - title: "Introduction"
-        url: /wiki/introduction
       - title: "Technology"
         url: /wiki/technology
       - title: "Restrictions"
