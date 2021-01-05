@@ -13,7 +13,7 @@ ITAR defines the *United States Munitions List* (USML) [<sup>[2]</sup>][2] of
 controlled items grouped by category.
 
 Among others, category XII contains devices and weapon sights
-using image intensifiers with a [sensitivity][/wiki/measurements#photocathode-sensitivity] over 350 μA/lm
+using image intensifiers with a [sensitivity](/wiki/measurements#photocathode-sensitivity) over 350 μA/lm
 and Gen. 3 image intensifiers (or later).
 
 Exporting ITAR controlled equipment & information without a license is a punishable crime.
@@ -28,10 +28,11 @@ market by:
 * Equipment imported to the U.S. might not be able to be exported again if it falls under ITAR.
 * Allthough theoretically possible, permission to legally export ITAR regulated night vision
 equipment is generally seen as unobtainable.
+* It seems like exceptions have been made for Gen. 3 image intensifiers with low FOM [<sup>[3]</sup>][3]
 
 ## Germany 🇩🇪
 
-Certain gun-mounted equipment is prohibited by the *Waffengesetz* § 2.3 & annex 2 [<sup>[3]</sup>][3][<sup>[4]</sup>][4][<sup>[5]</sup>][5].
+Certain gun-mounted equipment is prohibited by the *Waffengesetz* § 2.3 & annex 2 [<sup>[4]</sup>][4][<sup>[5]</sup>][5][<sup>[6]</sup>][6].
 
 According to annex 2 nr. 1.2.4.2 gun-mounted night vision attachments & sights are prohibited
 if they include an electronic image converter or an image intensifier.
@@ -58,6 +59,7 @@ have been interpreted as illegal attachment.
 
 [1]: https://nightvisionuniverse.com/pages/export-regulations
 [2]: https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf
-[3]: https://www.gesetze-im-internet.de/waffg_2002/__2.html
-[4]: https://www.gesetze-im-internet.de/waffg_2002/anlage_2.html
-[5]: https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Aufgabenbereiche/Waffen/MerkblattNachtsichtvor_aufsatzgeraete.pdf
+[3]: https://www.asu-nvg.com/Documents%20and%20Settings/39/Site%20Documents/Product%20Spec%20Sheets/MX-10160_F9800_Int.pdf
+[4]: https://www.gesetze-im-internet.de/waffg_2002/__2.html
+[5]: https://www.gesetze-im-internet.de/waffg_2002/anlage_2.html
+[6]: https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Aufgabenbereiche/Waffen/MerkblattNachtsichtvor_aufsatzgeraete.pdf
