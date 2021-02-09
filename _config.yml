@@ -41,6 +41,7 @@ defaults:
     scope:
       path: ""
     values:
+      layout: "wiki"
       sidebar:
         nav: "docs"
       header:

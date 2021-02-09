@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Tubes
 ---
 
@@ -33,7 +32,7 @@ The values in the table are minimums, unless otherwise specified.
 | Omni VII  | 64                  | 28   | 2200                                      |                                           | 120                                       | 50,000-80,000  | 0.92            | 0.8             | 0.61           | 0.38           | 0.70       | P-43      | 2006 | 3              | MX-10160C /AVS-6<br>ID 80063-A3279602<br>MX-11769/UV<br>MX-10130D/UV<br>ENVG (Enhanced NVG )<br>FGS (Fusion Goggle System )                    | W9124Q-05-D-0821<br>W9124Q-05-D-0823<br>N00164-07-R-85240<br>mx10160<br>N00164-09-R-JQ02FGS<br>mx10160<br>H92222-08-R-0040<br>mx10160<br>H9222-10-R-0003 |
 | Omni VIII | 64                  | > 25 | 2000                                      | 190                                       | 80                                        | 25,000-110,000 | Nominal         | Nominal         | 0.61           | 0.38           | 1          | P-43      | 2010 | 3              | MX-10130D/UV<br>MX-11769/UV<br>MX-12389<br>DFG (Digital Fusion Goggles)<br>Enhanced-ANVIS MX-10160B                                            | W91CRB-10-R-0051<br>W91CRB-11-R-0001<br>SPM4A6-11-R-1478<br>SPM4A611MCN18                                                                                |
 
-An Omni IV contract is currently in development.[<sup>[1]</sup>][1]
+An Omni IX contract is currently in development.[<sup>[1]</sup>][1]
 
 
 # ITT

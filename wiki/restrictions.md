@@ -1,10 +1,9 @@
 ---
-layout: single
 title:  Restrictions
 ---
 
 ## United States 🇺🇸
-
+layout: single
 The export of night vision equipment is controlled in accordance with the
 *International Traffic in Arms* (ITAR) regime, which is defined in Title 22
 in the Code of Federal Regulations Part 120-130. [<sup>[1]</sup>][1]
