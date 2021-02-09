@@ -12,6 +12,7 @@ This wiki is an open source project powered by GitHub pages.
 
 The information here can be extended by everyone.
 There are two methods to contribute to this project.
+Both require you to have a GitHub account.
 
 ## Simple Method
 
