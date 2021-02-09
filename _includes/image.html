@@ -2,5 +2,11 @@
   <a href="/assets/images/{{ include.image }}">
     <img src="/assets/images/{{ include.image }}" alt="{{ include.image }}" style="border: 5px solid #979797;" />
   </a>
-  <div style="font-size: smaller;">{{ include.description }}</div>
+  <div style="font-size: smaller;">
+    {{ include.description }}
+    {% if include.link %}
+    (<a href="{{ include.link }}">source</a>)
+    {% endif %}
+  </div>
+
 </div>

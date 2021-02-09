@@ -20,13 +20,12 @@ Additional documents:
 
 The phosphor screen converts electrons emitted by the MCP back into visible light.
 
-There are different phosphor types (different chemical compositions) producing various shades of light:
+There are different phosphor types (different chemical compositions) producing various shades of light.
 
-* <div style="font-weight: bold; color: #1b9210">P43</div>
-* <div style="font-weight: bold; color: #1e8896">P45</div>
-* ...
-
-{% include image.html image="phosphor_wavelengths.png" description="Spectrums of different phosphor types" %}
+{% include image.html
+  image="phosphor_wavelengths.png"
+  description="Spectrums of different phosphor types"
+  link="https://actinblack.com/us/white-vs-green-phosphorus/" %}
 
 The U.S. military adopted green P43 phosphor as a standard, taking advantage of the outstanding
 native ability of the human eye to recognize movement and silhouettes in green foliage.
