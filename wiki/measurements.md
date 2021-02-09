@@ -2,7 +2,8 @@
 title: Measurements
 ---
 
-Every night vision tube comes with a set of measurements that can be used to determine the quality and how suitable it is for different uses.
+Every night vision tube comes with a set of measurements.
+These can be used to determine the quality and how suitable it is for different uses.
 
 ## Signal-To-Noise ratio (SNR or S/N)
 Unit: unitless
