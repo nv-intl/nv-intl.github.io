@@ -6,6 +6,14 @@ Every night vision tube comes with a set of measurements.
 
 These can be used to determine the quality and how suitable it is for different uses.
 
+## Demo
+
+This demo attempts to convey the effect of different measurements a tube can have.
+
+It is still very much work in progress and should not be seen as any comparison to real world devices.
+
+{% include demo.html %}
+
 ## Signal-To-Noise ratio (SNR or S/N)
 Unit: unitless
 
