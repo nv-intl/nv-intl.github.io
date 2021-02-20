@@ -1,5 +1,5 @@
 ---
-title:  Tube Formats
+title: Tube Formats
 ---
 
 ## MX10160

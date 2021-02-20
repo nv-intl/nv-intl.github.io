@@ -1,5 +1,5 @@
 ---
-title:  Stores
+title: Stores
 ---
 
 ### IEA MIL-OPTICS

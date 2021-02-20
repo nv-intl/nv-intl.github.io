@@ -1,16 +1,6 @@
 ---
-title: Technology
+title: Optical Coatings
 ---
-
-The term *The whole is greater than the sum of it's pieces* is true for night vision technology, too.
-
-# Microchannel Plate (MCP)
-
-Under construction
-
-# Optical Coatings
-
-Under construction
 
 Additional documents:
 

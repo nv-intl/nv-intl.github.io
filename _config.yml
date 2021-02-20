@@ -27,6 +27,14 @@ url: "https://nv-intl.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Configuration to make the wiki searchable
+collections:
+  wiki:
+    output: true
+    permalink: /wiki/:path
+search: true
+search_full_content: true
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
@@ -42,8 +50,6 @@ defaults:
       path: ""
     values:
       layout: "wiki"
-      sidebar:
-        nav: "docs"
       header:
         image: /assets/images/banner.jpg
       classes: wide
