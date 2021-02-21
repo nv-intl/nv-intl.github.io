@@ -14,3 +14,5 @@ The information here can be extended by everyone.
 
 The [Readme file](https://github.com/nv-intl/nv-intl.github.io/blob/master/readme.md)
 contains all information to get started with contributing.
+
+{% include daily_page.html %}

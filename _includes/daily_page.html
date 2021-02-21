@@ -1,0 +1,31 @@
+<div style="margin-bottom: 2em;">
+  <h3 class="archive__subtitle">Page of the day</h3>
+  <a id="daily-page-link" href=""><b id="daily-page-text"></b></a>
+</div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
+<script>
+
+function truncate( str, n, useWordBoundary ){
+  if (str.length <= n) { return str; }
+  const subString = str.substr(0, n-1); // the original check
+  return (useWordBoundary 
+    ? subString.substr(0, subString.lastIndexOf(" ")) 
+    : subString) + "&hellip;";
+};
+
+let pages = [
+{% for wikipage in site.wiki %}
+  ["{{ wikipage.title }}", "{{ wikipage.url }}"],
+{% endfor %}
+];
+
+let today = new Date().toLocaleDateString();
+let myrng = new Math.seedrandom(today);
+let page = pages[Math.floor(myrng.quick() * pages.length)];
+
+let link = document.getElementById("daily-page-link");
+link.setAttribute("href", page[1]);
+let text = document.getElementById("daily-page-text");
+text.innerText = page[0];
+</script>
