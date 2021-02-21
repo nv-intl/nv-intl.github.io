@@ -35,7 +35,7 @@ The export of night vision equipment is controlled in accordance with the
 in the Code of Federal Regulations Part 120-130. {nightvisionuniverse.com on export regulations}(https://nightvisionuniverse.com/pages/export-regulations)
 
 ITAR defines the *United States Munitions List* (USML)
-(The United States Munitions List)[https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf]
+{The United States Munitions List}(https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf)
 of controlled items grouped by category.
 
 Among others, category XII contains devices and weapon sights
