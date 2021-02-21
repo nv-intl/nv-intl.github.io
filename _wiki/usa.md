@@ -13,7 +13,7 @@ The U.S. military has an ongoing line of procurement contracts for image intensi
 Over the decades, the U.S. military has issued many different night vision devices for different roles.
 
 Night vision devices are designated as AN/PVS, which translates to
-Army/Navy Portable Visual Search[<sup>1</sup>](1).
+Army/Navy Portable Visual Search {MIL-STD-196G}(http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-196G_55809/).
 
 A list of the most noteworthy devices includes:
 
@@ -32,10 +32,11 @@ A list of the most noteworthy devices includes:
 
 The export of night vision equipment is controlled in accordance with the
 *International Traffic in Arms* (ITAR) regime, which is defined in Title 22
-in the Code of Federal Regulations Part 120-130. [<sup>[2]</sup>][2]
+in the Code of Federal Regulations Part 120-130. {nightvisionuniverse.com on export regulations}(https://nightvisionuniverse.com/pages/export-regulations)
 
-ITAR defines the *United States Munitions List* (USML) [<sup>[3]</sup>][3] of
-controlled items grouped by category.
+ITAR defines the *United States Munitions List* (USML)
+(The United States Munitions List)[https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf]
+of controlled items grouped by category.
 
 Among others, category XII contains devices and weapon sights
 using image intensifiers with a [sensitivity](/wiki/measurements#photocathode-sensitivity) over 350 μA/lm
@@ -53,10 +54,5 @@ market by:
 * Equipment imported to the U.S. might not be able to be exported again if it falls under ITAR.
 * Allthough theoretically possible, permission to legally export ITAR regulated night vision
 equipment is generally seen as unobtainable.
-* It seems like exceptions have been made for Gen. 3 image intensifiers with low FOM [<sup>[4]</sup>][4]
-
-# References
-* 1: http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-196G_55809/
-* 2: https://nightvisionuniverse.com/pages/export-regulations
-* 3: https://www.govinfo.gov/content/pkg/CFR-2020-title22-vol1/pdf/CFR-2020-title22-vol1-sec121-1.pdf
-* 4: https://www.asu-nvg.com/Documents%20and%20Settings/39/Site%20Documents/Product%20Spec%20Sheets/MX-10160_F9800_Int.pdf
+* It seems like exceptions have been made for Gen. 3 image intensifiers with low FOM
+{F9800 International Brochure}(https://www.asu-nvg.com/Documents%20and%20Settings/39/Site%20Documents/Product%20Spec%20Sheets/MX-10160_F9800_Int.pdf)

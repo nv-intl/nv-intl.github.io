@@ -1,8 +1,8 @@
 ---
-title: ITT
+title: ITT Inc.
 ---
 
-The U.S. based manufacturer ITT produces image intensifier tubes both for the U.S. military (See [Omni contracts](/wiki/omni)
+The U.S. based manufacturer ITT produces image intensifier tubes both for the U.S. military (See [Omni contracts](/wiki/omni))
 as well as aimed at the civilian market.
 
 ## F9800 Series

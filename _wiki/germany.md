@@ -4,7 +4,10 @@ title:  Germany
 
 # Laws
 
-Certain gun-mounted equipment is prohibited by the *Waffengesetz* § 2.3 & annex 2 [<sup>[4]</sup>][1][<sup>[5]</sup>][2][<sup>[6]</sup>][3].
+Certain gun-mounted equipment is prohibited by the *Waffengesetz* § 2.3 & annex 2
+{Waffengesetz 2002 Paragraph 2}(https://www.gesetze-im-internet.de/waffg_2002/__2.html)
+{Waffengesetz 2002 Paragraph 2 Annex 2}(https://www.gesetze-im-internet.de/waffg_2002/anlage_2.html)
+{Leaflet on night vision attachments by the BKA}(https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Aufgabenbereiche/Waffen/MerkblattNachtsichtvor_aufsatzgeraete.pdf).
 
 According to annex 2 nr. 1.2.4.2 gun-mounted night vision attachments & sights are prohibited
 if they include an electronic image converter or an image intensifier.
@@ -28,7 +31,3 @@ is also prohibited.
 * Allthough universal adapters aren't strictly prohibited, there have been alleged cases
 where the combination of a universal adapter "next to" a compatible flashlight
 have been interpreted as illegal attachment.
-
-[1]: https://www.gesetze-im-internet.de/waffg_2002/__2.html
-[2]: https://www.gesetze-im-internet.de/waffg_2002/anlage_2.html
-[3]: https://www.bka.de/SharedDocs/Downloads/DE/UnsereAufgaben/Aufgabenbereiche/Waffen/MerkblattNachtsichtvor_aufsatzgeraete.pdf

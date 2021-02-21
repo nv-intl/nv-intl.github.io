@@ -1,8 +1,6 @@
 ---
-title: Tubes
+title: North Night Vision Technology (NNVT)
 ---
-
-# North Night Vision Technology (NNVT)
 
 A Chinese manufacturer of Gen. 2 image intensifier tubes.
 

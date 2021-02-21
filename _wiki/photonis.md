@@ -60,17 +60,16 @@ Key characteristics are:
 Released in 2019, the 4G+ series builds on the technology of 4G with various improvements,
 leading to a minimum 2300 FOM, with unconfirmed sources claiming some tubes reaching up to 3000 FOM.
 
-In 2016 Photonis patented the use of *diffraction grating*[<sup>[1]</sup>][1] which suggests a 80% increase in photocathode sensitivity.
+In 2016 Photonis patented the use of *diffraction grating*{Patent EP2907154B1}(https://patents.google.com/patent/EP2907154B1)
+which suggests a 80% increase in photocathode sensitivity.
 
-Marketing material also mentions improvements in MCP technology. [<sup>[2]</sup>][2].
-Experts have linked these improvements to a second patent from 2019 [<sup>[3]</sup>][3] indicating the use of a *GaAs film* to "focus" electrons emitted by the MCP,
+Marketing material also mentions improvements in MCP technology. {4G Leaflet}(https://www.photonis.com/system/files/2020-06/190902-Leaflet-4Gp.pdf).
+Experts have linked these improvements to a second patent from 2019 {Patent EP3400469B1}(https://patents.google.com/patent/EP3400469B1)
+indicating the use of a *GaAs film* to "focus" electrons emitted by the MCP,
 leading to a alleged 81% improvement of the [MTF](/wiki/measurements#modulation-transfer-function-mtf).
 
 {% include image.html image="gaas_film.png" description="Top left: electrons leaving the MCP without film<br/>Top right: electrons leaving the MCP with film<br/>Bottom: MTFs with and without film, showing an improvement in contrast with film (112)" %}
 
-[1]: https://patents.google.com/patent/EP2907154B1
-[2]: https://www.photonis.com/system/files/2020-06/190902-Leaflet-4Gp.pdf
-[3]: https://patents.google.com/patent/EP3400469B1
 [XD4 Brochure]: https://www.photonis.com/system/files/2020-06/200611-Leaflet-XD4.pdf
 [XR5 Brochure]: https://www.photonis.com/system/files/2020-11/201120c-Leafet-XR5.pdf
 [Echo Brochure]: https://www.photonis.com/system/files/2019-04/Photonis_Brochure_ECHO_NV.pdf
