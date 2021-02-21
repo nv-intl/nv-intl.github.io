@@ -52,7 +52,6 @@ defaults:
       layout: "wiki"
       header:
         image: /assets/images/banner.jpg
-      classes: wide
       toc: true
       toc_icon: 
 
