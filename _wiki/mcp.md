@@ -1,5 +1,5 @@
 ---
-title: Microchannel Plate
+title: Microchannel Plate (MCP)
 ---
 
 The microchannel plate (MCP) is a core technology used in image intensifiers.

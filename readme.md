@@ -15,7 +15,7 @@
 * The moderators might comment suggestions, which you in turn can respond to, and edit your changes accordingly.
 * If all suggestions have been resolved, the moderators will approve your changes, transfering your changes directly to the wiki.
 
-## Edit and test locally
+## Edit and test locally (Advanced Contributing)
 
 ### Prerequisites
 * Ruby 2.7
@@ -65,7 +65,7 @@ Instead, use:
 
 Create references by simply adding `{description}(<link>)` to the text.
 It will be converted client-side to a reference like this [<sup>[42]</sup>](#) and
-a respective entry will be added to a reference section in the end of the page.
+a respective entry will be added to a reference section at the end of the page.
 
 ### Documents & Media
 

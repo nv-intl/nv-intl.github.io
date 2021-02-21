@@ -1,5 +1,5 @@
 ---
-title: United States of America
+title: United States of America / U.S.A.
 ---
 
 # Military

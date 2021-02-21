@@ -26,19 +26,17 @@
 @media (min-width: 80em) { #main { max-width: 2000px; } }
 
 .editbutton {
-  background-color: #7a8288; // #749775;
+  background-color: #7a8288;
   border: none;
-  padding: 15px 10px;
+  padding: 10px 8px;
   text-align: center;
   text-decoration: none;
-  margin-top:0%;
-  font-size: 16px;
-  margin-bottom: 16px;
+  margin-top: 0%;
+  font-size: 14px;
+  margin-bottom: 25px;
   color: #eaeaea;
   display: block;
-  margin-left: auto;
-  margin-top: -60px; // Nudge it up so it doesn't take as much space
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 canvas {

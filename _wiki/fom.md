@@ -1,5 +1,5 @@
 ---
-title: Figure of Merit
+title: Figure of Merit (FOM)
 ---
 
 The figure of merit (FOM) is a dimensionless number used to benchmark tubes without requiring to look at different

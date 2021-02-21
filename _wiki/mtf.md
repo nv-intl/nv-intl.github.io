@@ -1,5 +1,5 @@
 ---
-title: Modulation Transfer Function
+title: Modulation Transfer Function (MTF)
 ---
 
 The modulation transfer function (MTF) is the major characteristic how well a tube can reproduce

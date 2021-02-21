@@ -1,5 +1,5 @@
 ---
-title: EBI
+title: Equivalent Background Input (EBI)
 ---
 
 A tube that has no light input still lights up slightly - referred to as background illumination.
